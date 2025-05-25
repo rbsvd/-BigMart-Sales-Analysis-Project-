@@ -94,5 +94,5 @@ The goal of this project is to analyze BigMart sales data to uncover insights re
 ## 🚀 Environment Setup
 
 ### **Prerequisites**  
-✔ **Programming Language**: Python 3.12  
+✔ **Programming Language & Platform**: Python 3.12 & Jupyter Notebook 
 ✔ **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
